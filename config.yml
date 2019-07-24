@@ -1,0 +1,8 @@
+apps:
+  - script   : 'server.js'
+    name     : 'APP'
+    env    :
+      NODE_ENV: development
+      MONGO_PASS: '11kiev01'
+      PORT: '3003'
+      JWT_KEY: 'secret'
