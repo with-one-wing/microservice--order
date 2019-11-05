@@ -21,7 +21,7 @@
     "imagemin": "^6.1.0",
     "imagemin-pngquant": "^7.0.0",
     "jsonwebtoken": "^8.4.0",
-    "mongoose": "^5.4.4",
+    "mongoose": "^5.7.5",
     "multer": "^1.4.1",
     "swagger-ui-express": "^4.0.2",
     "yamljs": "^0.3.0"
